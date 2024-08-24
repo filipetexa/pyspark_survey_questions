@@ -1,9 +1,23 @@
 # pyspark_survey_questions
 ## Resolução
+
  - Resolvi fazer a resolução das questões em formato .ipynb para facilitar a exposição do raciocinie por trás da resoluçõa das questões e para facilitar o seu debug
- - Cada arquivo contem a resoluçaõ de uma das partes do teste.
- 
+ - Cada arquivo contem a resolução de uma das partes do teste.
+
+## Pré-requisitos
+
+Para executar os notebooks, certifique-se de ter instalado:
+
+- **Python 3.10.12** ou superior
+- **Java JDK 11** ou superior
+- **PySpark**
+
+Configurações adicionais como a definição da variável `JAVA_HOME` são necessárias para a execução do PySpark.
+
+
+
 ## Perguntas originais(Whatsapp):
+
 Teste Engenheiro de Dados - Devolver até dia 26.08 as 12h.
 * Teste de Conhecimentos em PySpark
 Parte 1: Manipulação de Dados
