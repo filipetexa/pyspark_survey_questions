@@ -1,0 +1,101 @@
+timestamp,user_id,action
+2024-08-25 15:23:06.292445,usuario1,Executou script de correção
+2024-08-25 15:22:06.292492,usuario1,Executou script de correção
+2024-08-25 15:17:06.292499,usuario2,Fechou chamado
+2024-08-25 15:17:06.292503,usuario2,Verificou logs
+2024-08-25 15:11:06.292507,usuario1,Atualizou ticket
+2024-08-25 15:18:06.292511,usuario2,Verificou logs
+2024-08-25 15:17:06.292515,usuario1,Executou script de correção
+2024-08-25 15:09:06.292519,usuario2,Respondeu cliente
+2024-08-25 14:59:06.292524,usuario2,Abriu chamado
+2024-08-25 14:56:06.292529,usuario1,Fechou chamado
+2024-08-25 15:03:06.292533,usuario1,Abriu chamado
+2024-08-25 14:50:06.292537,usuario2,Escalou problema
+2024-08-25 14:47:06.292541,usuario2,Escalou problema
+2024-08-25 15:10:06.292544,usuario2,Verificou logs
+2024-08-25 14:41:06.292548,usuario2,Executou script de correção
+2024-08-25 14:38:06.292551,usuario2,Executou script de correção
+2024-08-25 14:51:06.292555,usuario2,Atualizou ticket
+2024-08-25 14:49:06.292558,usuario1,Atualizou ticket
+2024-08-25 14:11:06.292562,usuario1,Atualizou ticket
+2024-08-25 15:04:06.292565,usuario1,Respondeu cliente
+2024-08-25 14:23:06.292569,usuario2,Configurou software
+2024-08-25 14:20:06.292573,usuario2,Reiniciou servidor
+2024-08-25 13:55:06.292576,usuario2,Configurou software
+2024-08-25 14:14:06.292579,usuario1,Abriu chamado
+2024-08-25 14:59:06.292583,usuario2,Configurou software
+2024-08-25 13:43:06.292586,usuario2,Respondeu cliente
+2024-08-25 14:57:06.292590,usuario1,Abriu chamado
+2024-08-25 13:35:06.292593,usuario2,Configurou software
+2024-08-25 13:31:06.292597,usuario2,Respondeu cliente
+2024-08-25 14:25:06.292600,usuario2,Reiniciou servidor
+2024-08-25 14:53:06.292604,usuario1,Configurou software
+2024-08-25 13:50:06.292607,usuario1,Respondeu cliente
+2024-08-25 13:47:06.292611,usuario2,Atualizou ticket
+2024-08-25 14:50:06.292615,usuario2,Executou script de correção
+2024-08-25 13:41:06.292619,usuario1,Atualizou ticket
+2024-08-25 13:38:06.292622,usuario1,Executou script de correção
+2024-08-25 14:47:06.292626,usuario2,Fechou chamado
+2024-08-25 12:55:06.292629,usuario1,Fechou chamado
+2024-08-25 14:45:06.292633,usuario2,Fechou chamado
+2024-08-25 12:47:06.292636,usuario2,Reiniciou servidor
+2024-08-25 13:23:06.292640,usuario7,Atualizou ticket
+2024-08-25 13:20:06.292643,usuario8,Executou script de correção
+2024-08-25 13:17:06.292647,usuario9,Respondeu cliente
+2024-08-25 13:57:06.292650,usuario10,Abriu chamado
+2024-08-25 12:27:06.292654,usuario11,Respondeu cliente
+2024-08-25 13:53:06.292657,usuario12,Abriu chamado
+2024-08-25 13:51:06.292660,usuario13,Escalou problema
+2024-08-25 14:36:06.292664,usuario14,Respondeu cliente
+2024-08-25 13:47:06.292667,usuario15,Configurou software
+2024-08-25 14:34:06.292671,usuario16,Configurou software
+2024-08-25 14:33:06.292674,usuario17,Verificou logs
+2024-08-25 13:41:06.292678,usuario18,Atualizou ticket
+2024-08-25 11:55:06.292681,usuario19,Abriu chamado
+2024-08-25 11:51:06.292685,usuario20,Abriu chamado
+2024-08-25 11:47:06.292688,usuario3,Atualizou ticket
+2024-08-25 11:43:06.292692,usuario4,Reiniciou servidor
+2024-08-25 11:39:06.292695,usuario5,Verificou logs
+2024-08-25 13:29:06.292700,usuario6,Reiniciou servidor
+2024-08-25 13:27:06.292703,usuario7,Reiniciou servidor
+2024-08-25 12:26:06.292707,usuario8,Reiniciou servidor
+2024-08-25 11:23:06.292711,usuario9,Atualizou ticket
+2024-08-25 13:21:06.292714,usuario10,Reiniciou servidor
+2024-08-25 12:17:06.292718,usuario11,Configurou software
+2024-08-25 11:11:06.292721,usuario12,Fechou chamado
+2024-08-25 14:19:06.292725,usuario13,Escalou problema
+2024-08-25 12:08:06.292729,usuario14,Abriu chamado
+2024-08-25 13:11:06.292733,usuario15,Abriu chamado
+2024-08-25 14:16:06.292736,usuario16,Escalou problema
+2024-08-25 14:15:06.292739,usuario17,Atualizou ticket
+2024-08-25 14:14:06.292743,usuario18,Respondeu cliente
+2024-08-25 11:53:06.292746,usuario19,Atualizou ticket
+2024-08-25 13:01:06.292750,usuario20,Abriu chamado
+2024-08-25 14:11:06.292753,usuario3,Abriu chamado
+2024-08-25 10:31:06.292757,usuario4,Escalou problema
+2024-08-25 14:09:06.292760,usuario5,Reiniciou servidor
+2024-08-25 14:08:06.292764,usuario6,Atualizou ticket
+2024-08-25 11:35:06.292767,usuario7,Executou script de correção
+2024-08-25 11:32:06.292771,usuario8,Escalou problema
+2024-08-25 12:47:06.292774,usuario9,Configurou software
+2024-08-25 10:07:06.292778,usuario10,Abriu chamado
+2024-08-25 11:23:06.292781,usuario11,Escalou problema
+2024-08-25 14:02:06.292785,usuario12,Atualizou ticket
+2024-08-25 12:39:06.292788,usuario13,Abriu chamado
+2024-08-25 14:00:06.292792,usuario14,Respondeu cliente
+2024-08-25 13:59:06.292795,usuario15,Escalou problema
+2024-08-25 11:08:06.292798,usuario16,Verificou logs
+2024-08-25 12:31:06.292802,usuario17,Abriu chamado
+2024-08-25 09:35:06.292805,usuario18,Atualizou ticket
+2024-08-25 09:31:06.292809,usuario19,Fechou chamado
+2024-08-25 10:56:06.292817,usuario20,Executou script de correção
+2024-08-25 10:53:06.292825,usuario3,Reiniciou servidor
+2024-08-25 12:21:06.292833,usuario4,Atualizou ticket
+2024-08-25 09:15:06.292839,usuario5,Configurou software
+2024-08-25 09:11:06.292849,usuario6,Configurou software
+2024-08-25 09:07:06.292857,usuario7,Fechou chamado
+2024-08-25 13:48:06.292866,usuario8,Reiniciou servidor
+2024-08-25 08:59:06.292873,usuario9,Verificou logs
+2024-08-25 13:46:06.292877,usuario10,Fechou chamado
+2024-08-25 12:07:06.292880,usuario11,Fechou chamado
+2024-08-25 13:44:06.292884,usuario12,Abriu chamado
